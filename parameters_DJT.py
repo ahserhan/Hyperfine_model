@@ -25,18 +25,18 @@ rg = 2.00208 * rmep / 2
 
 # Ground state hyperfine parameters (117Sn, S_n = 1/2)
 # DJT form: A1, A2, A_parallel, A_perpendicular
-# A1_gnd = 0 / 1000.0      # [GHz] test
-# A2_gnd = 0 / 1000.0      # [GHz] test
-A1_gnd = 1.1 / 1000.0      # [GHz] off-diagonal hyperfine coupling A1 (1.1 MHz)
-A2_gnd = 1.9 / 1000.0      # [GHz] off-diagonal hyperfine coupling A2 (1.9 MHz)
+A1_gnd = 0 / 1000.0      # [GHz] test
+A2_gnd = 0 / 1000.0      # [GHz] test
+# A1_gnd = 1.1 / 1000.0      # [GHz] off-diagonal hyperfine coupling A1 (1.1 MHz)
+# A2_gnd = 1.9 / 1000.0      # [GHz] off-diagonal hyperfine coupling A2 (1.9 MHz)
 Apar_gnd = 488.0 / 1000.0  # [GHz] parallel hyperfine coupling A∥ (488.0 MHz)
 Aperp_gnd = 1029.7 / 1000.0  # [GHz] perpendicular hyperfine coupling A⊥ (1029.7 MHz)
 
 # Excited state hyperfine parameters (117Sn, S_n = 1/2)
 # DJT form: A1, A2, A_parallel, A_perpendicular
-# A1_exc = 0 / 1000.0      # [GHz] test
-# A2_exc = 0 / 1000.0      # [GHz] test
-A1_exc = 0.1 / 1000.0      # [GHz] off-diagonal hyperfine coupling A1 (0.1 MHz)
-A2_exc = -0.43 / 1000.0    # [GHz] off-diagonal hyperfine coupling A2 (-0.43 MHz)
+A1_exc = 0 / 1000.0      # [GHz] test
+A2_exc = 0 / 1000.0      # [GHz] test
+# A1_exc = 0.1 / 1000.0      # [GHz] off-diagonal hyperfine coupling A1 (0.1 MHz)
+# A2_exc = -0.43 / 1000.0    # [GHz] off-diagonal hyperfine coupling A2 (-0.43 MHz)
 Apar_exc = 15.0 / 1000.0   # [GHz] parallel hyperfine coupling A∥ (15.0 MHz)
 Aperp_exc = 32.3 / 1000.0  # [GHz] perpendicular hyperfine coupling A⊥ (32.3 MHz)
